@@ -4,7 +4,7 @@
 
 - <b>Full Stack Web App (React, NodeJS, React redux)</b>
 
-   -[https://fs-midterm-exam.netlify.app/]
+  - [https://fs-midterm-exam.netlify.app/] 
   - [https://thegolfclub.netlify.app/]
   - [https://todo-app-fs24.netlify.app/login]
 
