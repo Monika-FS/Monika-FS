@@ -2,10 +2,11 @@
 <h2>👨‍💻 Web Development Projects:</h2>
 
 
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+- <b>Full Stack Web App (React, NodeJS, React redux)</b>
+
    -[https://fs-midterm-exam.netlify.app/]
   - [https://thegolfclub.netlify.app/]
-  - https://todo-app-fs24.netlify.app/login
+  - [https://todo-app-fs24.netlify.app/login]
 
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
